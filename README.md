@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Eliezer Niyorukundo
 
+🎓 Informatics student at Jönköping University  
+💡 Interested in Data, AI, and Python  
+🔭 Currently working on NLP projects  
+🌱 Continuously learning more about machine learning and data-driven systems  
+👯 Open to collaborating on Data/AI and Python projects  
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+Let’s build something impactful 🚀
 
